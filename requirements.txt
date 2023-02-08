@@ -1,0 +1,8 @@
+json5
+httpx
+lxml
+requests
+py3rijndael
+pyDes
+msgpack
+coloredlogs
